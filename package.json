@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "webpack": "^5.1.2",
+    "webpack-cli": "^4.0.0"
+  },
+  "name": "your-project",
+  "sideEffects": false
+}
